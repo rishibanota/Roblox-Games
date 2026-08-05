@@ -50,6 +50,7 @@ This repository is a portfolio and directory for my Roblox games. Each game is l
 
 **Any issues or Feature to be added** Just open a *new* issue in the issue tab.
 
+**Want source code** mail me at  <a href="mailto:rishibanota837@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 ---
 
 *New Roblox games and updates will be added here.*
