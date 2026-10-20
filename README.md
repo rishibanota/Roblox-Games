@@ -1,6 +1,6 @@
 # Roblox Games — Obbies, Tycoons, Survival & More
 
-> A growing collection of Roblox experiences by [**@rishigamer20062**](https://www.roblox.com/users/2887606723/profile/). Race through challenging obbies, solve puzzles, build your empire, survive monsters, and compete with friends.
+> A growing collection of Roblox experiences by [**@rishigamer20062**](https://www.roblox.com/users/2887606723/profile/). Race through challenging obbies, solve puzzles, build your empire, speed through cart-chase levels, survive monsters, and compete with friends.
 
 [![Roblox Profile](https://img.shields.io/badge/Roblox-Visit%20my%20profile-00A2FF?logo=roblox&logoColor=white)](https://www.roblox.com/users/2887606723/profile/)
 
@@ -17,6 +17,7 @@
 | **[NEW UPDATE] Free UGC Items 💪🕹️** | Avatar · Combat · Grinding | Start with a free slap weapon, earn PP, upgrade your gear, try new dance emotes, and fight your way up the leaderboard. | [Play on Roblox →](https://www.roblox.com/games/81849831148777/Free-UGC-Items) |
 | **Scary Monster Island** | Horror · Survival · Escape | Explore a scary island and try to survive its dangers. | [Play on Roblox →](https://www.roblox.com/games/70843642416018/Scary-Monster-Island) |
 | **👑 Last One Standing** | Survival · Party · Runner | Compete in chaotic random challenges and elimination rounds. Survive each map and make it to the final showdown. | [Play on Roblox →](https://www.roblox.com/games/101731261854761/Last-One-Standing) |
+| **🐻 CART RUSH: BEAR ESCAPE** | Racing · Survival · Adventure | Race customizable carts through hazard-filled levels, dodge deadly traps, collect coins, and outrun a giant bear boss. | [Play on Roblox →](https://www.roblox.com/games/74397606303149/CART-RUSH-BEAR-ESCAPE) |
 
 ## ⭐ Featured experiences
 
@@ -35,11 +36,17 @@ A fast-paced Roblox survival game built around unpredictable rounds. Race, survi
 
 [**▶ Play Last One Standing**](https://www.roblox.com/games/101731261854761/Last-One-Standing)
 
+### 🐻 CART RUSH: BEAR ESCAPE
+A high-speed cart racing survival experience. Pick your cart, weave through hazard-filled levels, collect coins, and stay ahead of a relentless giant bear.
+
+[**▶ Play CART RUSH: BEAR ESCAPE**](https://www.roblox.com/games/74397606303149/CART-RUSH-BEAR-ESCAPE)
+
 ## 🕹️ Find your next challenge
 
 - **Love obbies and parkour?** Try [The Ultimate Tough Obby](https://www.roblox.com/games/94534771802315/The-Ultimate-Tough-Obby) or [The Floating Carpet Obby](https://www.roblox.com/games/82713324366697/The-Floating-Carpet-Obby).
 - **Want a brain challenge?** Play [Rising Lava Math Challenge](https://www.roblox.com/games/81699865114364/Rising-Lava-Math-Challenge).
 - **Prefer progression games?** Build up in [Fruit Collector Tycoon](https://www.roblox.com/games/137245464712714/Fruit-Collector-Tycoon-Harvest-Rise) or race in [Infinity Road: 7X Challenge](https://www.roblox.com/games/121933749648950/Infinity-Road-7X-Challenge).
+- **Ready for a high-speed escape?** Pick a cart in [CART RUSH: BEAR ESCAPE](https://www.roblox.com/games/74397606303149/CART-RUSH-BEAR-ESCAPE) and outrun a giant bear through hazard-filled levels.
 - **Looking for survival or horror?** Enter [Monster Maze Madness](https://www.roblox.com/games/89848727058798/Monster-Maze-Madness), [Scary Monster Island](https://www.roblox.com/games/70843642416018/Scary-Monster-Island), or [Last One Standing](https://www.roblox.com/games/101731261854761/Last-One-Standing).
 
 ## 📌 About this repository
