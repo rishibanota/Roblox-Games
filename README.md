@@ -8,46 +8,48 @@
 
 | Game | Genre | What to expect | Play |
 | --- | --- | --- | --- |
-| **The Ultimate Tough Obby (100 Levels! Of Glory 💥)** | Obby · Parkour · Runner | Take on 100 increasingly tough levels, tricky jumps, moving platforms, power-ups, rebirths, leaderboards, and a final boss. | [Play on Roblox →](https://www.roblox.com/games/94534771802315/The-Ultimate-Tough-Obby) |
-| **Rising Lava Math Challenge** | Educational · Puzzle · Survival | Solve math puzzles while climbing away from the rising lava. Face harder puzzles every 50 levels, use power-ups, and see how far you can go. | [Play on Roblox →](https://www.roblox.com/games/81699865114364/Rising-Lava-Math-Challenge) |
-| **Fruit Collector Tycoon: Harvest & Rise!** | Tycoon · Simulator · Farming | Catch falling fruit, unlock new biomes, level up, use multipliers and Auto-Collect, and compete on the leaderboard. | [Play on Roblox →](https://www.roblox.com/games/137245464712714/Fruit-Collector-Tycoon-Harvest-Rise) |
-| **Monster Maze Madness 👿** | Horror · Maze · Adventure | Navigate challenging mazes, outsmart monsters, dodge traps, reach checkpoints, and become the Maze Master. | [Play on Roblox →](https://www.roblox.com/games/89848727058798/Monster-Maze-Madness) |
-| **🧶 The Floating Carpet Obby ✨** | Obby · Parkour · Adventure | Glide through 130 obstacle-course levels on magical carpets. Use tools such as a grapple hook, speed coil, gravity coil, and magic carpet. | [Play on Roblox →](https://www.roblox.com/games/82713324366697/The-Floating-Carpet-Obby) |
-| **Infinity Road: 7X Challenge** | Runner · Speed · Progression | Race down Infinity Road, earn up to **7×** speed, collect auras, rebirth for more power, and chase the leaderboard. | [Play on Roblox →](https://www.roblox.com/games/121933749648950/Infinity-Road-7X-Challenge) |
-| **[NEW UPDATE] Free UGC Items 💪🕹️** | Avatar · Combat · Grinding | Start with a free slap weapon, earn PP, upgrade your gear, try new dance emotes, and fight your way up the leaderboard. | [Play on Roblox →](https://www.roblox.com/games/81849831148777/Free-UGC-Items) |
-| **Scary Monster Island** | Horror · Survival · Escape | Explore a scary island and try to survive its dangers. | [Play on Roblox →](https://www.roblox.com/games/70843642416018/Scary-Monster-Island) |
-| **👑 Last One Standing** | Survival · Party · Runner | Compete in chaotic random challenges and elimination rounds. Survive each map and make it to the final showdown. | [Play on Roblox →](https://www.roblox.com/games/101731261854761/Last-One-Standing) |
-| **🐻 CART RUSH: BEAR ESCAPE** | Racing · Survival · Adventure | Race customizable carts through hazard-filled levels, dodge deadly traps, collect coins, and outrun a giant bear boss. | [Play on Roblox →](https://www.roblox.com/games/74397606303149/CART-RUSH-BEAR-ESCAPE) |
+| **😱 IMPOSSIBLE TOUGH OBBY! [100 LEVELS] 🧗** | Obby · Parkour · Runner | Take on 100 increasingly tough levels, tricky jumps, moving platforms, power-ups, rebirths, leaderboards, and an epic final robot boss. | [Play on Roblox →](https://www.roblox.com/games/94534771802315/IMPOSSIBLE-TOUGH-OBBY-100-LEVELS) |
+| **😱 SURVIVE THE LAVA TOWER! [99% FAIL] 🌋** | Puzzle · Trivia · Survival | Solve math questions fast to stack blocks higher and escape the rising magma. Face scaling puzzles every 50 levels and aim for the top! | [Play on Roblox →](https://www.roblox.com/games/81699865114364/SURVIVE-THE-LAVA-TOWER) |
+| **🚜 FRUIT HARVEST FARM SIMULATOR! [TYCOON] 🌱** | Tycoon · Simulator · Farming | Catch falling fruits, unlock 7 exotic biomes, reinvest profits into auto-collectors, and build the richest fruit harvest empire. | [Play on Roblox →](https://www.roblox.com/games/137245464712714/FRUIT-HARVEST-FARM-SIMULATOR) |
+| **🚨 ESCAPE THE MONSTER MAZE! [HORROR] 👹** | Horror · Maze · Adventure | Navigate challenging labyrinths, outsmart stalking monsters, dodge traps, reach checkpoints, and escape before time runs out. | [Play on Roblox →](https://www.roblox.com/games/89848727058798/ESCAPE-THE-MONSTER-MAZE-HORROR) |
+| **✨ FLOATING CARPET OBBY! [130 STAGES] 🧞‍♂️** | Obby · Parkour · Adventure | Glide through 130 obstacle-course levels on magical flying carpets. Use grapple hooks, speed coils, gravity coils, and stage-skips. | [Play on Roblox →](https://www.roblox.com/games/82713324366697/FLOATING-CARPET-OBBY-130-STAGES) |
+| **⚡ 7X SPEED RACE! [INFINITY ROAD] 🏃💨** | Runner · Speed · Progression | Race down Infinity Road, unlock up to **7×** speed boosts, collect radiant cosmic auras, rebirth for more power, and climb the leaderboards. | [Play on Roblox →](https://www.roblox.com/games/121933749648950/7X-SPEED-RACE-INFINITY-ROAD) |
+| **🎁 FREE UGC! [SLAP & BATTLE SIMULATOR] 💪** | Simulator · Combat · Rewards | Slap opponents and bosses to stack Power Points, upgrade to legendary gloves, unlock viral dance emotes, and earn Free UGC avatar items. | [Play on Roblox →](https://www.roblox.com/games/81849831148777/FREE-UGC-SLAP-BATTLE-SIMULATOR) |
+| **🏝️ SURVIVE SCARY MONSTER ISLAND! [HORROR]** | Horror · Survival · Co-op | Stranded on a haunted island with dangerous creatures in the shadows. Scavenge supplies, hide in bunkers, solve puzzles, and escape. | [Play on Roblox →](https://www.roblox.com/games/70843642416018/SURVIVE-SCARY-MONSTER-ISLAND) |
+| **🏆 SURVIVE OR GET ELIMINATED! [KNOCKOUT]** | Survival · Party · Knockout | Compete in chaotic elimination mini-games and knockout rounds. Survive unpredictable obstacles and be the last player standing. | [Play on Roblox →](https://www.roblox.com/games/101731261854761/SURVIVE-OR-GET-ELIMINATED) |
+| **⚡ CART RUSH 3X! [SPEED ESCAPE]** | Racing · Speed · Escape | Race customizable carts at 3X speed through hazard-filled obstacle tracks, drift tight corners, use nitro boosts, and beat the clock. | [Play on Roblox →](https://www.roblox.com/games/74397606303149/CART-RUSH-3X-SPEED-ESCAPE) |
+| **🏆 Ganpati Seva 🐘🪔** | Cultural · Devotional · Adventure | Celebrate the spirit of Ganesh Chaturthi! Participate in temple seva, earn modak rewards, perform aarti, and explore vibrant festivities. | [Play on Roblox →](https://www.roblox.com/games/80682172412672/Ganpati-Seva) |
 
 ## ⭐ Featured experiences
 
-### The Ultimate Tough Obby (100 Levels! Of Glory 💥)
-A Roblox parkour challenge for players who enjoy difficult obbies, tower races, speedruns, and competitive leaderboards. Climb through 100 levels, master obstacle courses, collect auras, and aim for the top.
+### 😱 IMPOSSIBLE TOUGH OBBY! [100 LEVELS] 🧗
+A Roblox parkour challenge for players who enjoy difficult obbies, tower races, speedruns, and competitive leaderboards. Climb through 100 levels, master obstacle courses, defeat the final robot boss, collect auras, and aim for the top.
 
-[**▶ Play The Ultimate Tough Obby**](https://www.roblox.com/games/94534771802315/The-Ultimate-Tough-Obby)
+[**▶ Play Impossible Tough Obby**](https://www.roblox.com/games/94534771802315/IMPOSSIBLE-TOUGH-OBBY-100-LEVELS)
 
-### Fruit Collector Tycoon: Harvest & Rise!
+### 🚜 FRUIT HARVEST FARM SIMULATOR! [TYCOON] 🌱
 A colorful fruit-farming tycoon where every harvest helps you progress. Collect fruit from trees, explore seven biomes, unlock boosts, and grow into a top collector.
 
-[**▶ Play Fruit Collector Tycoon**](https://www.roblox.com/games/137245464712714/Fruit-Collector-Tycoon-Harvest-Rise)
+[**▶ Play Fruit Harvest Farm Simulator**](https://www.roblox.com/games/137245464712714/FRUIT-HARVEST-FARM-SIMULATOR)
 
-### 👑 Last One Standing
+### 🏆 SURVIVE OR GET ELIMINATED! [KNOCKOUT]
 A fast-paced Roblox survival game built around unpredictable rounds. Race, survive, qualify, and be the last player standing.
 
-[**▶ Play Last One Standing**](https://www.roblox.com/games/101731261854761/Last-One-Standing)
+[**▶ Play Survive or Get Eliminated**](https://www.roblox.com/games/101731261854761/SURVIVE-OR-GET-ELIMINATED)
 
-### 🐻 CART RUSH: BEAR ESCAPE
-A high-speed cart racing survival experience. Pick your cart, weave through hazard-filled levels, collect coins, and stay ahead of a relentless giant bear.
+### ⚡ CART RUSH 3X! [SPEED ESCAPE]
+A high-speed cart racing survival experience. Pick your cart, weave through hazard-filled levels, collect coins, drift sharp corners, and escape the tracks.
 
-[**▶ Play CART RUSH: BEAR ESCAPE**](https://www.roblox.com/games/74397606303149/CART-RUSH-BEAR-ESCAPE)
+[**▶ Play Cart Rush 3X**](https://www.roblox.com/games/74397606303149/CART-RUSH-3X-SPEED-ESCAPE)
 
 ## 🕹️ Find your next challenge
 
-- **Love obbies and parkour?** Try [The Ultimate Tough Obby](https://www.roblox.com/games/94534771802315/The-Ultimate-Tough-Obby) or [The Floating Carpet Obby](https://www.roblox.com/games/82713324366697/The-Floating-Carpet-Obby).
-- **Want a brain challenge?** Play [Rising Lava Math Challenge](https://www.roblox.com/games/81699865114364/Rising-Lava-Math-Challenge).
-- **Prefer progression games?** Build up in [Fruit Collector Tycoon](https://www.roblox.com/games/137245464712714/Fruit-Collector-Tycoon-Harvest-Rise) or race in [Infinity Road: 7X Challenge](https://www.roblox.com/games/121933749648950/Infinity-Road-7X-Challenge).
-- **Ready for a high-speed escape?** Pick a cart in [CART RUSH: BEAR ESCAPE](https://www.roblox.com/games/74397606303149/CART-RUSH-BEAR-ESCAPE) and outrun a giant bear through hazard-filled levels.
-- **Looking for survival or horror?** Enter [Monster Maze Madness](https://www.roblox.com/games/89848727058798/Monster-Maze-Madness), [Scary Monster Island](https://www.roblox.com/games/70843642416018/Scary-Monster-Island), or [Last One Standing](https://www.roblox.com/games/101731261854761/Last-One-Standing).
+- **Love obbies and parkour?** Try [😱 IMPOSSIBLE TOUGH OBBY! [100 LEVELS] 🧗](https://www.roblox.com/games/94534771802315/IMPOSSIBLE-TOUGH-OBBY-100-LEVELS) or [✨ FLOATING CARPET OBBY! [130 STAGES] 🧞‍♂️](https://www.roblox.com/games/82713324366697/FLOATING-CARPET-OBBY-130-STAGES).
+- **Want a brain challenge?** Play [😱 SURVIVE THE LAVA TOWER! [99% FAIL] 🌋](https://www.roblox.com/games/81699865114364/SURVIVE-THE-LAVA-TOWER).
+- **Prefer progression & tycoon games?** Build up in [🚜 FRUIT HARVEST FARM SIMULATOR! [TYCOON] 🌱](https://www.roblox.com/games/137245464712714/FRUIT-HARVEST-FARM-SIMULATOR), fight for items in [🎁 FREE UGC! [SLAP & BATTLE SIMULATOR] 💪](https://www.roblox.com/games/81849831148777/FREE-UGC-SLAP-BATTLE-SIMULATOR), or race in [⚡ 7X SPEED RACE! [INFINITY ROAD] 🏃💨](https://www.roblox.com/games/121933749648950/7X-SPEED-RACE-INFINITY-ROAD).
+- **Ready for high-speed cart racing?** Drift and escape in [⚡ CART RUSH 3X! [SPEED ESCAPE]](https://www.roblox.com/games/74397606303149/CART-RUSH-3X-SPEED-ESCAPE).
+- **Looking for survival or horror?** Enter [🚨 ESCAPE THE MONSTER MAZE! [HORROR] 👹](https://www.roblox.com/games/89848727058798/ESCAPE-THE-MONSTER-MAZE-HORROR), [🏝️ SURVIVE SCARY MONSTER ISLAND! [HORROR]](https://www.roblox.com/games/70843642416018/SURVIVE-SCARY-MONSTER-ISLAND), or [🏆 SURVIVE OR GET ELIMINATED! [KNOCKOUT]](https://www.roblox.com/games/101731261854761/SURVIVE-OR-GET-ELIMINATED).
+- **Looking for festive & cultural experiences?** Celebrate in [🏆 Ganpati Seva 🐘🪔](https://www.roblox.com/games/80682172412672/Ganpati-Seva).
 
 ## 📌 About this repository
 
